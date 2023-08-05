@@ -5,8 +5,9 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 
+
 ### About Me  
-A web developer with 6+ years of experience creating successful websites. I'm proficient in a variety of web development technologies, including HTML, CSS, JavaScript, React, Node.js, Express.js, MySQL and MongoDB. I'm also familiar with Git and GitHub, and I'm always up to date on the latest trends in web development.  
+A web developer with 6+ years of experience creating successful websites. I'm passionate about building beautiful and functional web applications that make people's lives easier. I'm proficient in a variety of web development technologies, including HTML, CSS, JavaScript, React, Node.js, Express.js, MySQL and MongoDB. I'm also familiar with Git and GitHub, and I'm always up to date on the latest trends in web development.  
 <br/>
 
 ## My Skills
